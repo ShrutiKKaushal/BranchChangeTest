@@ -1,0 +1,2 @@
+C:\Users\318304268\Desktop\Branch change test\Branch change test\bin\Debug\Branch change test.exe.config
+C:\Users\318304268\Desktop\BranchChangeTest\Branch change test\Branch change test\bin\Debug\Branch change test.exe.config
